@@ -27,5 +27,5 @@ You decide how much time you want to spend on this! There is no minimum time. As
 
 ## Okay, sounds like fun, how can i join?
 
-If you want to join the message me on slack
+If you want to join then message me on slack
 
