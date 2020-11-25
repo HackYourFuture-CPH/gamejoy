@@ -9,9 +9,13 @@ From the 30/11 - 14/12 the participants of this challenge will work in groups of
 That is completely up to you! 
 
 The only requirements are:
+
 📱 What you build should be a game 
+
 😊 What you build should bring joy
+
 🌍 What you build should be online
+
 
 ## So what is a game? 
 
