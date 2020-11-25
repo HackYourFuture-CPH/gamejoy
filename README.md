@@ -12,6 +12,15 @@ That is completely up to you! The only requirements are:
 - What you build should **bring joy** 😊 
 - What you build should **be online** 🌍 
 
+## What will i get out of it?
+
+These are some things you will get out of joining:
+
+- What will you get out of joining?
+- Stronger network across the HackYourFuture community
+- Work on your entrepreneurial mindset 
+- Learn how to deploy your site to the web
+- Learn how to work together with multiple people
 
 ## So what is a game? 
 
