@@ -2,20 +2,20 @@
 
 It's been too long since we had a community challenge, but that will change from today!
 
-From the 30/11 - 14/12 the participants of this challenge will work in groups of 3-4 people on creating a game that brings joy 😊
+From the **30/11 - 14/12** the participants of this challenge will work in **groups of 3-4 people** on **creating a game that brings joy** 😊
 
 ## So what should the game do?
 
 That is completely up to you! The only requirements are:
 
-- What you build should be a game 📱 
-- What you build should bring joy 😊 
-- What you build should be online 🌍 
+- What you build should **be a game** 📱 
+- What you build should **bring joy** 😊 
+- What you build should **be online** 🌍 
 
 
 ## So what is a game? 
 
-Hmm that's a good question and probably not one that i can answer.
+Hmm that's a good question and probably not one that i can answer
 
 But here are some examples
 - Letting a user guess a random number between 1-10
