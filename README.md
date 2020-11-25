@@ -2,7 +2,7 @@
 
 It's been too long since we had a community challenge, but that will change from today!
 
-From the **30/11 - 14/12** the participants of this challenge will work in **groups of 3-4 people** on **creating a game that brings joy** 😊
+From the **2/12 - 16/12** the participants of this challenge will work in **groups of 3-4 people** on **creating a game that brings joy** 😊
 
 ## So what should the game do?
 
