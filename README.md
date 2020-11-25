@@ -9,11 +9,13 @@ From the 30/11 - 14/12 the participants of this challenge will work in groups of
 That is completely up to you! 
 
 The only requirements are:
-1. What you build should be a game 📱
-1. What you build should bring joy 😊
-1. What you build should be online 🌍
+📱 What you build should be a game 
+😊 What you build should bring joy
+🌍 What you build should be online
 
-So what is a game? Hmm that's a good question and probably not one that i can answer.
+## So what is a game? 
+
+Hmm that's a good question and probably not one that i can answer.
 
 But here are some examples
 - Letting a user guess a random number between 1-10
@@ -29,7 +31,7 @@ You decide how much time you want to spend on this! There is no minimum time. As
 
 ## Okay, sounds like fun, how can i join?
 
-If you want to join then message Benjamin on slack
+If you want to join then message Benjamin on slack. Then he will put together the groups and announce them on slack
 
 ## Will there be prices and judges?
 
@@ -41,5 +43,17 @@ It's up to your group to decide how you will work together! Maybe one person is 
 
 The most important thing here is to focus on creating a game!
 
+## Videos
 
+I have made a small video series showing how to
+♟ Create a game using js and html
+🤼 Work together using pr's
+🌍 Publish your site using github pages
+
+Github: https://github.com/benna100/space-infinity
+Production line: https://benna100.github.io/space-infinity/
+
+## How to hand in the GameJoy
+
+Fill in this form: https://forms.gle/x6vYu5kt3mV2czyf6
 
