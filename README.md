@@ -9,8 +9,8 @@ From the 30/11 - 14/12 the participants of this challenge will work in groups of
 That is completely up to you! The only requirements are:
 
 - What you build should be a game 📱 
-- What you build should bring joy😊 
-- What you build should be online🌍 
+- What you build should bring joy 😊 
+- What you build should be online 🌍 
 
 
 ## So what is a game? 
@@ -46,9 +46,13 @@ The most important thing here is to focus on creating a game!
 ## Videos
 
 I have made a small video series showing how to
+
 ♟ Create a game using js and html
+
 🤼 Work together using pr's
+
 🌍 Publish your site using github pages
+
 
 Github: https://github.com/benna100/space-infinity
 Production line: https://benna100.github.io/space-infinity/
