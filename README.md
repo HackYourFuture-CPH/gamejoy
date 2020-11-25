@@ -47,11 +47,9 @@ The most important thing here is to focus on creating a game!
 
 I have made a small video series showing how to
 
-♟ Create a game using js and html
-
-🤼 Work together using pr's
-
-🌍 Publish your site using github pages
+- Create a game using js and html ♟ 
+- Work together using pr's 🤼 
+- Publish your site using github pages 🌍 
 
 
 Github: https://github.com/benna100/space-infinity
