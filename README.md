@@ -16,7 +16,6 @@ That is completely up to you! The only requirements are:
 
 These are some things you will get out of joining:
 
-- What will you get out of joining?
 - Stronger network across the HackYourFuture community
 - Work on your entrepreneurial mindset 
 - Learn how to deploy your site to the web
