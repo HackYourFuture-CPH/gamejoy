@@ -61,6 +61,7 @@ I have made a small video series showing how to
 
 
 Github: https://github.com/benna100/space-infinity
+
 Production line: https://benna100.github.io/space-infinity/
 
 ## How to hand in the GameJoy
